@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tugas2- Aji Bayu Permadi2</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="nama">Nama</string>
+</resources>
